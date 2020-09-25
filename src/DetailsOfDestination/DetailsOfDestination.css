@@ -1,0 +1,24 @@
+.bg{
+    background-image: url(../travel-guru-master/Image/Group\ 1331.png);
+    display: cover;
+    width: 100%;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.halfContent{
+    margin-top: 200px;
+}
+
+.img{
+    margin-top: 50px;
+}
+
+.form-control {
+    display: block;
+    width: 81%;
+    margin: 0 auto;
+}
+.collectData{
+    margin-top: 100px;
+}

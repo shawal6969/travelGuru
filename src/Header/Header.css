@@ -1,0 +1,11 @@
+.bg-light {
+    background-color: #f8f9fa00!important;
+}
+
+.navbar{
+    z-index: 78 !important ;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(255 255 255) !important;
+}
